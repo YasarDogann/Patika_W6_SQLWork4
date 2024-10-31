@@ -10,6 +10,7 @@ Bu proje, aşağıdaki konuları öğrenmeye yardımcı olmak için tasarlanmı�
 - BETWEEN kullanımı
 - IN kullanımı
 - LIKE ve ILIKE
+- DISTINCT ve COUNT kullanımı
 
 
 ## İstenilen Görev
